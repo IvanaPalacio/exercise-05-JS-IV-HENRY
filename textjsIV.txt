@@ -1,0 +1,31 @@
+Objetos: 
+Contiene mucha información sobre una sola cosa. 
+Los objetos se instancian usando llaves.
+
+Propiedades:
+Las propiedades en javascript se determinan por la key (clave).
+
+Métodos:
+Ejemplos: .length, .push, .pop, etc.
+Las funciones guardadas en un objeto se denominan métodos.
+Podemos establecer una clave para un nombre y el valor para una función.
+Si la función no tiene clave, deja de ser un método.
+
+Bucle for…in:
+comienza igual que el bucle for utilizado en los arrays 
+pero entre paréntesis declararemos (crearemos algo nuevo) una variable, 
+la palabra clave "in" y el nombre del objeto. 
+Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves.
+
+Notación de puntos vs notación de corchetes:
+
+Notación de puntos
+Con la notación de puntos podemos llamar al nombre del objeto,
+un punto y el nombre de la clave.
+
+notación de corchetes
+La notación de corchetes es como llamar a un elemento en una matriz, 
+aunque con corchetes debemos usar una cadena o número,
+o una variable que apunte a una cadena o número.
+Se puede llamar a cada clave envolviéndola con comillas.
+Generalmente, los corchetes casi siempre se usan con variables.
